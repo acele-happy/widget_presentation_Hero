@@ -20,3 +20,6 @@ Tap any tile on the gallery grid to see its Hero transition to the detail screen
 ## Screenshot
 
 ![Hero Widget Demo UI](screenshots/hero_demo.png)
+
+## Presentation Date
+08 July 2026
